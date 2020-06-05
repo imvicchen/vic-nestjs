@@ -6,7 +6,7 @@ export class AppService {
     let data = {
       name: 'Vic Chen',
       age: 30,
-      sex: 1,
+      sex: 2,
       avatar: 'https://www.baidu.com'
     };
     return data;
